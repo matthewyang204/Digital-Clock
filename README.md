@@ -8,7 +8,7 @@ Python 3.12 or later
 Latest Version: 1.0
 
 Download it here:
-https://github.com/matthewyang204/Digital-Clock/releases/download/1.0/Both.zip
+https://github.com/matthewyang204/Digital-Clock/releases/download/1.0/Install.Digital.Clock.1.0.dmg
 
 To install:
 1. Download the disk image.
